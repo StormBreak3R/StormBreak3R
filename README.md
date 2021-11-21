@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on **some python based projects**
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **Data Science**
 
-- 📫 How to reach me **ahsan.bit@outlook.com**
+- 📫 Email me **ahsan.bit@outlook.com**
 
 - ⚡ Fun fact **I love to play guitar!**
 
