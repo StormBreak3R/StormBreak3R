@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahsan Haque</h1>
-<h3 align="center">nothing good!</h3>
+<h3 align="center">Programmer | Quick Learner</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stormbreak3r&label=Profile%20views&color=0e75b6&style=flat" alt="stormbreak3r" /> </p>
 
@@ -29,11 +29,13 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
 
-</div>
+### ⚙️ &nbsp;GitHub Analytics
 
-<div align="left">
+<p align="center">
+<a href="https://github.com/stormbreak3r">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=StormBreak3R&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=StormBreak3R&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+</br>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=stormbreak3r&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Ahsan Haques's Github Stats">
-</br>
-</br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=stormbreak3r&show_icons=true&locale=en&layout=compact" alt="stormbreak3r" /></p>
